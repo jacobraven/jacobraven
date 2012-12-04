@@ -1,0 +1,7 @@
+package drDefender;
+
+import Node;
+
+public class Attack extends Node {
+
+}

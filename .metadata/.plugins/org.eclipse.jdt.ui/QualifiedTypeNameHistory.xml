@@ -1,2 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.powerbot.core.script.job.util.Containers"/>
+<fullyQualifiedTypeName name="org.powerbot.game.api.util.node.Nodes"/>
+<fullyQualifiedTypeName name="org.powerbot.game.api.methods.Widgets"/>
+<fullyQualifiedTypeName name="faladorMole.Widget"/>
+<fullyQualifiedTypeName name="org.powerbot.game.api.methods.interactive.Players"/>
+<fullyQualifiedTypeName name="org.powerbot.game.api.methods.tab.Inventory"/>
+<fullyQualifiedTypeName name="java.lang.StringBuffer"/>
+<fullyQualifiedTypeName name="java.lang.StringBuilder"/>
+</qualifiedTypeNameHistroy>

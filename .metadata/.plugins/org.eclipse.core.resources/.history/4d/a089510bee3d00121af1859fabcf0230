@@ -1,0 +1,7 @@
+package faladorMole;
+
+import Node;
+
+public class Attack extends Node {
+
+}
