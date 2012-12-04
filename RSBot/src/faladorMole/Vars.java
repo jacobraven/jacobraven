@@ -1,0 +1,32 @@
+package faladorMole;
+
+import org.powerbot.game.api.wrappers.Tile;
+
+public class Vars {
+	// Paths
+	public Tile[] nodeToBank =  new Tile[] {
+			new Tile(2968,3396,0)
+			,new Tile(2967,3389,0)
+			,new Tile(2961,3384,0)
+			,new Tile(2955,3380,0)
+			,new Tile(2950,3375,0)
+			,new Tile(2946,3369,0)
+			};
+	public Tile[] bankToPark = new Tile[] {
+			new Tile(2948,3375,0)
+			,new Tile(2953,3381,0)
+			,new Tile(2961,3381,0)
+			,new Tile(2968,3384,0)
+			,new Tile(2975,3387,0)
+			,new Tile(2982,3388,0)
+			,new Tile(2987,3383,0)
+			};
+	
+	
+	
+	// Variables
+	public int moleHole = 12202;
+	
+
+
+}

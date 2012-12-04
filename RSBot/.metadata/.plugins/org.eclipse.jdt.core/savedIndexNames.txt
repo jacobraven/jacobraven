@@ -1,0 +1,1 @@
+INDEX VERSION 1.126+C:\Users\swimtim2452\Documents\GitHub\jacobraven\RSBot\.metadata\.plugins\org.eclipse.jdt.core
